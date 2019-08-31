@@ -1,0 +1,18 @@
+{
+  "name": "majale_leader_board",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1",
+    "knex": "^0.19.2",
+    "mysql": "^2.17.1"
+  },
+  "scripts": {
+    "start": "node server.js",
+    "test": "nodemon server.js"
+  },
+  "devDependencies": {
+    "nodemon": "^1.19.1"
+  }
+}
