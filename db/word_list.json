@@ -1,0 +1,1557 @@
+{
+    "1": [
+      {
+        "id": 312448,
+        "parent_id": 11,
+        "language_id": 2,
+        "season_sort": 1,
+        "word": "Body",
+        "status": "1",
+        "season_id": 1,
+        "answer": {
+          "word": "بدن",
+          "language_id": 1
+        }
+      },
+      {
+        "id": 312499,
+        "parent_id": 21,
+        "language_id": 2,
+        "season_sort": 2,
+        "word": "Face",
+        "status": "1",
+        "season_id": 1,
+        "answer": {
+          "word": "صورت",
+          "language_id": 1
+        }
+      },
+      {
+        "id": 312601,
+        "parent_id": 41,
+        "language_id": 2,
+        "season_sort": 2,
+        "word": "Foot",
+        "status": "1",
+        "season_id": 1,
+        "answer": {
+          "word": "پا",
+          "language_id": 1
+        }
+      },
+      {
+        "id": 313271,
+        "parent_id": 181,
+        "language_id": 2,
+        "season_sort": 3,
+        "word": "Hair",
+        "status": "1",
+        "season_id": 1,
+        "answer": {
+          "word": "مو",
+          "language_id": 1
+        }
+      },
+      {
+        "id": 313846,
+        "parent_id": 311,
+        "language_id": 2,
+        "season_sort": 4,
+        "word": "Home",
+        "status": "1",
+        "season_id": 1,
+        "answer": {
+          "word": "خانه",
+          "language_id": 1
+        }
+      },
+      {
+        "id": 315478,
+        "parent_id": 631,
+        "language_id": 2,
+        "season_sort": 5,
+        "word": "Meat",
+        "status": "1",
+        "season_id": 1,
+        "answer": {
+          "word": "گوشت",
+          "language_id": 1
+        }
+      }
+    ],
+    "2": [
+      {
+        "id": 312397,
+        "parent_id": 1,
+        "language_id": 2,
+        "season_sort": 1,
+        "word": "People",
+        "status": "1",
+        "season_id": 2,
+        "answer": {
+          "word": "مردم",
+          "language_id": 1
+        }
+      },
+      {
+        "id": 312550,
+        "parent_id": 31,
+        "language_id": 2,
+        "season_sort": 3,
+        "word": "Hand",
+        "status": "1",
+        "season_id": 2,
+        "answer": {
+          "word": "دست",
+          "language_id": 1
+        }
+      },
+      {
+        "id": 312703,
+        "parent_id": 61,
+        "language_id": 2,
+        "season_sort": 4,
+        "word": "Skeleton",
+        "status": "1",
+        "season_id": 2,
+        "answer": {
+          "word": "اسکلت",
+          "language_id": 1
+        }
+      },
+      {
+        "id": 312812,
+        "parent_id": 91,
+        "language_id": 2,
+        "season_sort": 5,
+        "word": "Family",
+        "status": "1",
+        "season_id": 2,
+        "answer": {
+          "word": "خانواده",
+          "language_id": 1
+        }
+      },
+      {
+        "id": 313373,
+        "parent_id": 201,
+        "language_id": 2,
+        "season_sort": 6,
+        "word": "Health",
+        "status": "1",
+        "season_id": 2,
+        "answer": {
+          "word": "سلامتی",
+          "language_id": 1
+        }
+      }
+    ],
+    "3": [
+      {
+        "id": 312652,
+        "parent_id": 51,
+        "language_id": 2,
+        "season_sort": 3,
+        "word": "Muscles",
+        "status": "1",
+        "season_id": 3,
+        "answer": {
+          "word": "ماهیچه",
+          "language_id": 1
+        }
+      },
+      {
+        "id": 313322,
+        "parent_id": 191,
+        "language_id": 2,
+        "season_sort": 1,
+        "word": "Beauty",
+        "status": "1",
+        "season_id": 3,
+        "answer": {
+          "word": "زیبایی",
+          "language_id": 1
+        }
+      },
+      {
+        "id": 313475,
+        "parent_id": 221,
+        "language_id": 2,
+        "season_sort": 2,
+        "word": "Doctor",
+        "status": "1",
+        "season_id": 3,
+        "answer": {
+          "word": "پزشک",
+          "language_id": 1
+        }
+      },
+      {
+        "id": 313514,
+        "parent_id": 221,
+        "language_id": 1,
+        "season_sort": 2,
+        "word": "پزشک",
+        "status": "1",
+        "season_id": 3,
+        "answer": {
+          "word": "پزشک",
+          "language_id": 1
+        }
+      },
+      {
+        "id": 313628,
+        "parent_id": 251,
+        "language_id": 2,
+        "season_sort": 4,
+        "word": "Hospital",
+        "status": "1",
+        "season_id": 3,
+        "answer": {
+          "word": "بیمارستان",
+          "language_id": 1
+        }
+      },
+      {
+        "id": 313679,
+        "parent_id": 261,
+        "language_id": 2,
+        "season_sort": 5,
+        "word": "Dentist",
+        "status": "1",
+        "season_id": 3,
+        "answer": {
+          "word": "دندانپزشک",
+          "language_id": 1
+        }
+      },
+      {
+        "id": 313730,
+        "parent_id": 271,
+        "language_id": 2,
+        "season_sort": 6,
+        "word": "Optician",
+        "status": "1",
+        "season_id": 3,
+        "answer": {
+          "word": "چشم پزشک",
+          "language_id": 1
+        }
+      }
+    ],
+    "4": [
+      {
+        "id": 312914,
+        "parent_id": 111,
+        "language_id": 2,
+        "season_sort": 1,
+        "word": "Emotions",
+        "status": "1",
+        "season_id": 4,
+        "answer": {
+          "word": "احساسات",
+          "language_id": 1
+        }
+      },
+      {
+        "id": 313220,
+        "parent_id": 171,
+        "language_id": 2,
+        "season_sort": 2,
+        "word": "Accessories",
+        "status": "1",
+        "season_id": 4,
+        "answer": {
+          "word": "بدلیجات",
+          "language_id": 1
+        }
+      },
+      {
+        "id": 313424,
+        "parent_id": 211,
+        "language_id": 2,
+        "season_sort": 3,
+        "word": "Illness",
+        "status": "1",
+        "season_id": 4,
+        "answer": {
+          "word": "بیماری",
+          "language_id": 1
+        }
+      },
+      {
+        "id": 314101,
+        "parent_id": 361,
+        "language_id": 2,
+        "season_sort": 4,
+        "word": "Kitchen",
+        "status": "1",
+        "season_id": 4,
+        "answer": {
+          "word": "آشپزخانه",
+          "language_id": 1
+        }
+      },
+      {
+        "id": 314203,
+        "parent_id": 381,
+        "language_id": 2,
+        "season_sort": 5,
+        "word": "Bedroom",
+        "status": "1",
+        "season_id": 4,
+        "answer": {
+          "word": "اتاق خواب",
+          "language_id": 1
+        }
+      },
+      {
+        "id": 314305,
+        "parent_id": 401,
+        "language_id": 2,
+        "season_sort": 6,
+        "word": "Nursery",
+        "status": "1",
+        "season_id": 4,
+        "answer": {
+          "word": "پرستاری",
+          "language_id": 1
+        }
+      }
+    ],
+    "5": [
+      {
+        "id": 313526,
+        "parent_id": 231,
+        "language_id": 2,
+        "season_sort": 3,
+        "word": "Injury",
+        "status": "1",
+        "season_id": 5,
+        "answer": {
+          "word": "جراحت",
+          "language_id": 1
+        }
+      },
+      {
+        "id": 313781,
+        "parent_id": 281,
+        "language_id": 2,
+        "season_sort": 2,
+        "word": "Pregnancy",
+        "status": "1",
+        "season_id": 5,
+        "answer": {
+          "word": "بارداری",
+          "language_id": 1
+        }
+      },
+      {
+        "id": 314254,
+        "parent_id": 391,
+        "language_id": 2,
+        "season_sort": 1,
+        "word": "Bathroom",
+        "status": "1",
+        "season_id": 5,
+        "answer": {
+          "word": "حمام",
+          "language_id": 1
+        }
+      },
+      {
+        "id": 314407,
+        "parent_id": 421,
+        "language_id": 2,
+        "season_sort": 4,
+        "word": "Workshop",
+        "status": "1",
+        "season_id": 5,
+        "answer": {
+          "word": "کارگاه",
+          "language_id": 1
+        }
+      },
+      {
+        "id": 314509,
+        "parent_id": 441,
+        "language_id": 2,
+        "season_sort": 5,
+        "word": "Decorating",
+        "status": "1",
+        "season_id": 5,
+        "answer": {
+          "word": "تزئینات",
+          "language_id": 1
+        }
+      },
+      {
+        "id": 314764,
+        "parent_id": 491,
+        "language_id": 2,
+        "season_sort": 6,
+        "word": "Services",
+        "status": "1",
+        "season_id": 5,
+        "answer": {
+          "word": "خدمات",
+          "language_id": 1
+        }
+      },
+      {
+        "id": 328011,
+        "parent_id": 281,
+        "language_id": 1,
+        "season_sort": 2,
+        "word": "بارداری",
+        "status": "1",
+        "season_id": 5,
+        "answer": {
+          "word": "بارداری",
+          "language_id": 1
+        }
+      }
+    ],
+    "6": [
+      {
+        "id": 314866,
+        "parent_id": 511,
+        "language_id": 2,
+        "season_sort": 1,
+        "word": "Bank",
+        "status": "1",
+        "season_id": 6,
+        "answer": {
+          "word": "بانک",
+          "language_id": 1
+        }
+      },
+      {
+        "id": 314968,
+        "parent_id": 531,
+        "language_id": 2,
+        "season_sort": 2,
+        "word": "Hotel",
+        "status": "1",
+        "season_id": 6,
+        "answer": {
+          "word": "هتل",
+          "language_id": 1
+        }
+      },
+      {
+        "id": 315172,
+        "parent_id": 571,
+        "language_id": 2,
+        "season_sort": 3,
+        "word": "Chemist",
+        "status": "1",
+        "season_id": 6,
+        "answer": {
+          "word": "شیمی دان",
+          "language_id": 1
+        }
+      },
+      {
+        "id": 315223,
+        "parent_id": 581,
+        "language_id": 2,
+        "season_sort": 4,
+        "word": "Florist",
+        "status": "1",
+        "season_id": 6,
+        "answer": {
+          "word": "گلفروش",
+          "language_id": 1
+        }
+      },
+      {
+        "id": 315325,
+        "parent_id": 601,
+        "language_id": 2,
+        "season_sort": 5,
+        "word": "Confectioner",
+        "status": "1",
+        "season_id": 6,
+        "answer": {
+          "word": "قنادی",
+          "language_id": 1
+        }
+      },
+      {
+        "id": 315580,
+        "parent_id": 651,
+        "language_id": 2,
+        "season_sort": 6,
+        "word": "Vegetables",
+        "status": "1",
+        "season_id": 6,
+        "answer": {
+          "word": "سبزیجات",
+          "language_id": 1
+        }
+      }
+    ],
+    "7": [
+      {
+        "id": 315427,
+        "parent_id": 621,
+        "language_id": 2,
+        "season_sort": 2,
+        "word": "Food",
+        "status": "1",
+        "season_id": 7,
+        "answer": {
+          "word": "غذا",
+          "language_id": 1
+        }
+      },
+      {
+        "id": 315529,
+        "parent_id": 641,
+        "language_id": 2,
+        "season_sort": 1,
+        "word": "Fish",
+        "status": "1",
+        "season_id": 7,
+        "answer": {
+          "word": "ماهی",
+          "language_id": 1
+        }
+      },
+      {
+        "id": 315988,
+        "parent_id": 731,
+        "language_id": 2,
+        "season_sort": 3,
+        "word": "Delicacies",
+        "status": "1",
+        "season_id": 7,
+        "answer": {
+          "word": "خوراک",
+          "language_id": 1
+        }
+      },
+      {
+        "id": 316039,
+        "parent_id": 741,
+        "language_id": 2,
+        "season_sort": 4,
+        "word": "Drink",
+        "status": "1",
+        "season_id": 7,
+        "answer": {
+          "word": "نوشیدنی",
+          "language_id": 1
+        }
+      },
+      {
+        "id": 316141,
+        "parent_id": 761,
+        "language_id": 2,
+        "season_sort": 5,
+        "word": "Cafe",
+        "status": "1",
+        "season_id": 7,
+        "answer": {
+          "word": "کافه",
+          "language_id": 1
+        }
+      },
+      {
+        "id": 316549,
+        "parent_id": 841,
+        "language_id": 2,
+        "season_sort": 7,
+        "word": "Maths",
+        "status": "1",
+        "season_id": 7,
+        "answer": {
+          "word": "ریاضیات",
+          "language_id": 1
+        }
+      },
+      {
+        "id": 316855,
+        "parent_id": 901,
+        "language_id": 2,
+        "season_sort": 6,
+        "word": "Media",
+        "status": "1",
+        "season_id": 7,
+        "answer": {
+          "word": "رسانه",
+          "language_id": 1
+        }
+      }
+    ],
+    "10": [
+      {
+        "id": 316498,
+        "parent_id": 831,
+        "language_id": 2,
+        "season_sort": 6,
+        "word": "School",
+        "status": "1",
+        "season_id": 10,
+        "answer": {
+          "word": "مدرسه",
+          "language_id": 1
+        }
+      },
+      {
+        "id": 316600,
+        "parent_id": 851,
+        "language_id": 2,
+        "season_sort": 7,
+        "word": "Science",
+        "status": "1",
+        "season_id": 10,
+        "answer": {
+          "word": "علوم تجربی",
+          "language_id": 1
+        }
+      },
+      {
+        "id": 316651,
+        "parent_id": 861,
+        "language_id": 2,
+        "season_sort": 4,
+        "word": "College",
+        "status": "1",
+        "season_id": 10,
+        "answer": {
+          "word": "کالج",
+          "language_id": 1
+        }
+      },
+      {
+        "id": 316702,
+        "parent_id": 871,
+        "language_id": 2,
+        "season_sort": 5,
+        "word": "Work",
+        "status": "1",
+        "season_id": 10,
+        "answer": {
+          "word": "کار",
+          "language_id": 1
+        }
+      },
+      {
+        "id": 316753,
+        "parent_id": 881,
+        "language_id": 2,
+        "season_sort": 3,
+        "word": "Office",
+        "status": "1",
+        "season_id": 10,
+        "answer": {
+          "word": "شرکت",
+          "language_id": 1
+        }
+      },
+      {
+        "id": 317161,
+        "parent_id": 961,
+        "language_id": 2,
+        "season_sort": 2,
+        "word": "Road",
+        "status": "1",
+        "season_id": 10,
+        "answer": {
+          "word": "جاده",
+          "language_id": 1
+        }
+      },
+      {
+        "id": 317467,
+        "parent_id": 1021,
+        "language_id": 2,
+        "season_sort": 1,
+        "word": "Aircraft",
+        "status": "1",
+        "season_id": 10,
+        "answer": {
+          "word": "هواپیما",
+          "language_id": 1
+        }
+      }
+    ],
+    "11": [
+      {
+        "id": 314458,
+        "parent_id": 431,
+        "language_id": 2,
+        "season_sort": 4,
+        "word": "Toolbox",
+        "status": "1",
+        "season_id": 11,
+        "answer": {
+          "word": "جعبه ابزار",
+          "language_id": 1
+        }
+      },
+      {
+        "id": 314560,
+        "parent_id": 451,
+        "language_id": 2,
+        "season_sort": 3,
+        "word": "Garden",
+        "status": "1",
+        "season_id": 11,
+        "answer": {
+          "word": "حیاط",
+          "language_id": 1
+        }
+      },
+      {
+        "id": 315274,
+        "parent_id": 591,
+        "language_id": 2,
+        "season_sort": 2,
+        "word": "Newsagent",
+        "status": "1",
+        "season_id": 11,
+        "answer": {
+          "word": "روزنامه فروشی",
+          "language_id": 1
+        }
+      },
+      {
+        "id": 315631,
+        "parent_id": 661,
+        "language_id": 2,
+        "season_sort": 1,
+        "word": "Fruit",
+        "status": "1",
+        "season_id": 11,
+        "answer": {
+          "word": "میوه",
+          "language_id": 1
+        }
+      },
+      {
+        "id": 318181,
+        "parent_id": 1161,
+        "language_id": 2,
+        "season_sort": 6,
+        "word": "Athletics",
+        "status": "1",
+        "season_id": 11,
+        "answer": {
+          "word": "پهلوانی",
+          "language_id": 1
+        }
+      },
+      {
+        "id": 318487,
+        "parent_id": 1221,
+        "language_id": 2,
+        "season_sort": 5,
+        "word": "Skiing",
+        "status": "1",
+        "season_id": 11,
+        "answer": {
+          "word": "اسکی",
+          "language_id": 1
+        }
+      },
+      {
+        "id": 318640,
+        "parent_id": 1251,
+        "language_id": 2,
+        "season_sort": 7,
+        "word": "Leisure",
+        "status": "1",
+        "season_id": 11,
+        "answer": {
+          "word": "فراغت",
+          "language_id": 1
+        }
+      }
+    ],
+    "12": [
+      {
+        "id": 318691,
+        "parent_id": 1261,
+        "language_id": 2,
+        "season_sort": 3,
+        "word": "Theatre",
+        "status": "1",
+        "season_id": 12,
+        "answer": {
+          "word": "تئاتر - سینما",
+          "language_id": 1
+        }
+      },
+      {
+        "id": 318742,
+        "parent_id": 1271,
+        "language_id": 2,
+        "season_sort": 4,
+        "word": "Orchestra",
+        "status": "1",
+        "season_id": 12,
+        "answer": {
+          "word": "ارکستر",
+          "language_id": 1
+        }
+      },
+      {
+        "id": 318793,
+        "parent_id": 1281,
+        "language_id": 2,
+        "season_sort": 2,
+        "word": "Concert",
+        "status": "1",
+        "season_id": 12,
+        "answer": {
+          "word": "کنسرت",
+          "language_id": 1
+        }
+      },
+      {
+        "id": 318946,
+        "parent_id": 1311,
+        "language_id": 2,
+        "season_sort": 1,
+        "word": "Beach",
+        "status": "1",
+        "season_id": 12,
+        "answer": {
+          "word": "ساحل",
+          "language_id": 1
+        }
+      },
+      {
+        "id": 319762,
+        "parent_id": 1471,
+        "language_id": 2,
+        "season_sort": 6,
+        "word": "Architecture",
+        "status": "1",
+        "season_id": 12,
+        "answer": {
+          "word": "معماری",
+          "language_id": 1
+        }
+      },
+      {
+        "id": 319813,
+        "parent_id": 1481,
+        "language_id": 2,
+        "season_sort": 5,
+        "word": "Reference",
+        "status": "1",
+        "season_id": 12,
+        "answer": {
+          "word": "منبع",
+          "language_id": 1
+        }
+      },
+      {
+        "id": 320119,
+        "parent_id": 1541,
+        "language_id": 2,
+        "season_sort": 7,
+        "word": "neck",
+        "status": "1",
+        "season_id": 12,
+        "answer": {
+          "word": "گردن",
+          "language_id": 1
+        }
+      }
+    ],
+    "13": [
+      {
+        "id": 319303,
+        "parent_id": 1381,
+        "language_id": 2,
+        "season_sort": 1,
+        "word": "Space",
+        "status": "1",
+        "season_id": 13,
+        "answer": {
+          "word": "فضا",
+          "language_id": 1
+        }
+      },
+      {
+        "id": 319354,
+        "parent_id": 1391,
+        "language_id": 2,
+        "season_sort": 2,
+        "word": "Earth",
+        "status": "1",
+        "season_id": 13,
+        "answer": {
+          "word": "زمین",
+          "language_id": 1
+        }
+      },
+      {
+        "id": 319456,
+        "parent_id": 1411,
+        "language_id": 2,
+        "season_sort": 3,
+        "word": "Weather",
+        "status": "1",
+        "season_id": 13,
+        "answer": {
+          "word": "آب و هوا",
+          "language_id": 1
+        }
+      },
+      {
+        "id": 319507,
+        "parent_id": 1421,
+        "language_id": 2,
+        "season_sort": 4,
+        "word": "Rocks",
+        "status": "1",
+        "season_id": 13,
+        "answer": {
+          "word": "صخره",
+          "language_id": 1
+        }
+      },
+      {
+        "id": 319558,
+        "parent_id": 1431,
+        "language_id": 2,
+        "season_sort": 5,
+        "word": "Minerals",
+        "status": "1",
+        "season_id": 13,
+        "answer": {
+          "word": "مواد معدنی",
+          "language_id": 1
+        }
+      },
+      {
+        "id": 320272,
+        "parent_id": 1571,
+        "language_id": 2,
+        "season_sort": 7,
+        "word": "hip",
+        "status": "1",
+        "season_id": 13,
+        "answer": {
+          "word": "کفل",
+          "language_id": 1
+        }
+      },
+      {
+        "id": 320323,
+        "parent_id": 1591,
+        "language_id": 2,
+        "season_sort": 6,
+        "word": "shin",
+        "status": "1",
+        "season_id": 13,
+        "answer": {
+          "word": "ساق پا",
+          "language_id": 1
+        }
+      }
+    ],
+    "14": [
+      {
+        "id": 319405,
+        "parent_id": 1401,
+        "language_id": 2,
+        "season_sort": 5,
+        "word": "Landscape",
+        "status": "1",
+        "season_id": 14,
+        "answer": {
+          "word": "افقی",
+          "language_id": 1
+        }
+      },
+      {
+        "id": 319711,
+        "parent_id": 1461,
+        "language_id": 2,
+        "season_sort": 4,
+        "word": "Town",
+        "status": "1",
+        "season_id": 14,
+        "answer": {
+          "word": "شهر",
+          "language_id": 1
+        }
+      },
+      {
+        "id": 319915,
+        "parent_id": 1501,
+        "language_id": 2,
+        "season_sort": 3,
+        "word": "Calendar",
+        "status": "1",
+        "season_id": 14,
+        "answer": {
+          "word": "تقویم",
+          "language_id": 1
+        }
+      },
+      {
+        "id": 319966,
+        "parent_id": 1511,
+        "language_id": 2,
+        "season_sort": 2,
+        "word": "Numbers",
+        "status": "1",
+        "season_id": 14,
+        "answer": {
+          "word": "شماره",
+          "language_id": 1
+        }
+      },
+      {
+        "id": 320170,
+        "parent_id": 1551,
+        "language_id": 2,
+        "season_sort": 1,
+        "word": "chest",
+        "status": "1",
+        "season_id": 14,
+        "answer": {
+          "word": "سینه",
+          "language_id": 1
+        }
+      },
+      {
+        "id": 320221,
+        "parent_id": 1561,
+        "language_id": 2,
+        "season_sort": 6,
+        "word": "abdomen",
+        "status": "1",
+        "season_id": 14,
+        "answer": {
+          "word": "شکم",
+          "language_id": 1
+        }
+      },
+      {
+        "id": 320527,
+        "parent_id": 1651,
+        "language_id": 2,
+        "season_sort": 7,
+        "word": "breast",
+        "status": "1",
+        "season_id": 14,
+        "answer": {
+          "word": "پستان",
+          "language_id": 1
+        }
+      }
+    ],
+    "15": [
+      {
+        "id": 319609,
+        "parent_id": 1441,
+        "language_id": 2,
+        "season_sort": 1,
+        "word": "Animals",
+        "status": "1",
+        "season_id": 15,
+        "answer": {
+          "word": "حیوانات",
+          "language_id": 1
+        }
+      },
+      {
+        "id": 319660,
+        "parent_id": 1451,
+        "language_id": 2,
+        "season_sort": 2,
+        "word": "Plants",
+        "status": "1",
+        "season_id": 15,
+        "answer": {
+          "word": "گیاهان",
+          "language_id": 1
+        }
+      },
+      {
+        "id": 320629,
+        "parent_id": 1671,
+        "language_id": 2,
+        "season_sort": 3,
+        "word": "navel",
+        "status": "1",
+        "season_id": 15,
+        "answer": {
+          "word": "ناف",
+          "language_id": 1
+        }
+      },
+      {
+        "id": 320680,
+        "parent_id": 1681,
+        "language_id": 2,
+        "season_sort": 4,
+        "word": "forearm",
+        "status": "1",
+        "season_id": 15,
+        "answer": {
+          "word": "ساعد",
+          "language_id": 1
+        }
+      },
+      {
+        "id": 320782,
+        "parent_id": 1701,
+        "language_id": 2,
+        "season_sort": 5,
+        "word": "knee",
+        "status": "1",
+        "season_id": 15,
+        "answer": {
+          "word": "زانو",
+          "language_id": 1
+        }
+      },
+      {
+        "id": 320935,
+        "parent_id": 1731,
+        "language_id": 2,
+        "season_sort": 6,
+        "word": "shoulder",
+        "status": "1",
+        "season_id": 15,
+        "answer": {
+          "word": "کتف",
+          "language_id": 1
+        }
+      },
+      {
+        "id": 321088,
+        "parent_id": 1761,
+        "language_id": 2,
+        "season_sort": 7,
+        "word": "wrist",
+        "status": "1",
+        "season_id": 15,
+        "answer": {
+          "word": "مچ دست",
+          "language_id": 1
+        }
+      }
+    ],
+    "16": [
+      {
+        "id": 320374,
+        "parent_id": 1601,
+        "language_id": 2,
+        "season_sort": 1,
+        "word": "male",
+        "status": "1",
+        "season_id": 16,
+        "answer": {
+          "word": "مذکر",
+          "language_id": 1
+        }
+      },
+      {
+        "id": 320425,
+        "parent_id": 1621,
+        "language_id": 2,
+        "season_sort": 2,
+        "word": "leg",
+        "status": "1",
+        "season_id": 16,
+        "answer": {
+          "word": "پا",
+          "language_id": 1
+        }
+      },
+      {
+        "id": 320476,
+        "parent_id": 1641,
+        "language_id": 2,
+        "season_sort": 3,
+        "word": "head",
+        "status": "1",
+        "season_id": 16,
+        "answer": {
+          "word": "سر",
+          "language_id": 1
+        }
+      },
+      {
+        "id": 320578,
+        "parent_id": 1661,
+        "language_id": 2,
+        "season_sort": 3,
+        "word": "waist",
+        "status": "1",
+        "season_id": 16,
+        "answer": {
+          "word": "دورکمر",
+          "language_id": 1
+        }
+      },
+      {
+        "id": 320731,
+        "parent_id": 1691,
+        "language_id": 2,
+        "season_sort": 4,
+        "word": "thigh",
+        "status": "1",
+        "season_id": 16,
+        "answer": {
+          "word": "ران",
+          "language_id": 1
+        }
+      },
+      {
+        "id": 320833,
+        "parent_id": 1711,
+        "language_id": 2,
+        "season_sort": 6,
+        "word": "foot",
+        "status": "1",
+        "season_id": 16,
+        "answer": {
+          "word": "قدم",
+          "language_id": 1
+        }
+      },
+      {
+        "id": 321190,
+        "parent_id": 1781,
+        "language_id": 2,
+        "season_sort": 7,
+        "word": "ankle",
+        "status": "1",
+        "season_id": 16,
+        "answer": {
+          "word": "قوزک پا",
+          "language_id": 1
+        }
+      }
+    ],
+    "17": [
+      {
+        "id": 320884,
+        "parent_id": 1721,
+        "language_id": 2,
+        "season_sort": 1,
+        "word": "female",
+        "status": "1",
+        "season_id": 17,
+        "answer": {
+          "word": "مونث",
+          "language_id": 1
+        }
+      },
+      {
+        "id": 320986,
+        "parent_id": 1741,
+        "language_id": 2,
+        "season_sort": 2,
+        "word": "arm",
+        "status": "1",
+        "season_id": 17,
+        "answer": {
+          "word": "بازو",
+          "language_id": 1
+        }
+      },
+      {
+        "id": 321037,
+        "parent_id": 1751,
+        "language_id": 2,
+        "season_sort": 3,
+        "word": "elbow",
+        "status": "1",
+        "season_id": 17,
+        "answer": {
+          "word": "آرنج",
+          "language_id": 1
+        }
+      },
+      {
+        "id": 321343,
+        "parent_id": 1811,
+        "language_id": 2,
+        "season_sort": 4,
+        "word": "armpit",
+        "status": "1",
+        "season_id": 17,
+        "answer": {
+          "word": "زیر بغل",
+          "language_id": 1
+        }
+      },
+      {
+        "id": 321496,
+        "parent_id": 1841,
+        "language_id": 2,
+        "season_sort": 6,
+        "word": "calf",
+        "status": "1",
+        "season_id": 17,
+        "answer": {
+          "word": "ماهیچۀ پشت ساق پا",
+          "language_id": 1
+        }
+      },
+      {
+        "id": 321547,
+        "parent_id": 1851,
+        "language_id": 2,
+        "season_sort": 7,
+        "word": "heel",
+        "status": "1",
+        "season_id": 17,
+        "answer": {
+          "word": "پاشنۀ پا",
+          "language_id": 1
+        }
+      },
+      {
+        "id": 321904,
+        "parent_id": 1921,
+        "language_id": 2,
+        "season_sort": 8,
+        "word": "mole",
+        "status": "1",
+        "season_id": 17,
+        "answer": {
+          "word": "خال",
+          "language_id": 1
+        }
+      },
+      {
+        "id": 322975,
+        "parent_id": 2131,
+        "language_id": 2,
+        "season_sort": 5,
+        "word": "nail",
+        "status": "1",
+        "season_id": 17,
+        "answer": {
+          "word": "ناخن",
+          "language_id": 1
+        }
+      }
+    ],
+    "18": [
+      {
+        "id": 321139,
+        "parent_id": 1771,
+        "language_id": 2,
+        "season_sort": 1,
+        "word": "hand",
+        "status": "1",
+        "season_id": 18,
+        "answer": {
+          "word": "دست",
+          "language_id": 1
+        }
+      },
+      {
+        "id": 321241,
+        "parent_id": 1791,
+        "language_id": 2,
+        "season_sort": 2,
+        "word": "nape",
+        "status": "1",
+        "season_id": 18,
+        "answer": {
+          "word": "پشت گردن",
+          "language_id": 1
+        }
+      },
+      {
+        "id": 321598,
+        "parent_id": 1861,
+        "language_id": 2,
+        "season_sort": 4,
+        "word": "hair",
+        "status": "1",
+        "season_id": 18,
+        "answer": {
+          "word": "مو",
+          "language_id": 1
+        }
+      },
+      {
+        "id": 321649,
+        "parent_id": 1871,
+        "language_id": 2,
+        "season_sort": 5,
+        "word": "skin",
+        "status": "1",
+        "season_id": 18,
+        "answer": {
+          "word": "پوست",
+          "language_id": 1
+        }
+      },
+      {
+        "id": 321700,
+        "parent_id": 1881,
+        "language_id": 2,
+        "season_sort": 6,
+        "word": "eyebrow",
+        "status": "1",
+        "season_id": 18,
+        "answer": {
+          "word": "ابرو",
+          "language_id": 1
+        }
+      },
+      {
+        "id": 321751,
+        "parent_id": 1891,
+        "language_id": 2,
+        "season_sort": 7,
+        "word": "eyelash",
+        "status": "1",
+        "season_id": 18,
+        "answer": {
+          "word": "مژه",
+          "language_id": 1
+        }
+      },
+      {
+        "id": 322006,
+        "parent_id": 1941,
+        "language_id": 2,
+        "season_sort": 3,
+        "word": "chin",
+        "status": "1",
+        "season_id": 18,
+        "answer": {
+          "word": "چانه",
+          "language_id": 1
+        }
+      },
+      {
+        "id": 322108,
+        "parent_id": 1961,
+        "language_id": 2,
+        "season_sort": 8,
+        "word": "temple",
+        "status": "1",
+        "season_id": 18,
+        "answer": {
+          "word": "گیجگاه",
+          "language_id": 1
+        }
+      }
+    ],
+    "20": [
+      {
+        "id": 322159,
+        "parent_id": 1971,
+        "language_id": 2,
+        "season_sort": 1,
+        "word": "eye",
+        "status": "1",
+        "season_id": 20,
+        "answer": {
+          "word": "چشم",
+          "language_id": 1
+        }
+      },
+      {
+        "id": 322210,
+        "parent_id": 1981,
+        "language_id": 2,
+        "season_sort": 2,
+        "word": "cheek",
+        "status": "1",
+        "season_id": 20,
+        "answer": {
+          "word": "گونه",
+          "language_id": 1
+        }
+      },
+      {
+        "id": 322465,
+        "parent_id": 2031,
+        "language_id": 2,
+        "season_sort": 3,
+        "word": "freckle",
+        "status": "1",
+        "season_id": 20,
+        "answer": {
+          "word": "کک مک",
+          "language_id": 1
+        }
+      },
+      {
+        "id": 322516,
+        "parent_id": 2041,
+        "language_id": 2,
+        "season_sort": 4,
+        "word": "pore",
+        "status": "1",
+        "season_id": 20,
+        "answer": {
+          "word": "خلل و فرج",
+          "language_id": 1
+        }
+      },
+      {
+        "id": 322567,
+        "parent_id": 2051,
+        "language_id": 2,
+        "season_sort": 5,
+        "word": "dimple",
+        "status": "1",
+        "season_id": 20,
+        "answer": {
+          "word": "گودی",
+          "language_id": 1
+        }
+      },
+      {
+        "id": 322720,
+        "parent_id": 2081,
+        "language_id": 2,
+        "season_sort": 6,
+        "word": "wrist",
+        "status": "1",
+        "season_id": 20,
+        "answer": {
+          "word": "مچ دست",
+          "language_id": 1
+        }
+      },
+      {
+        "id": 322873,
+        "parent_id": 2111,
+        "language_id": 2,
+        "season_sort": 7,
+        "word": "thumb",
+        "status": "1",
+        "season_id": 20,
+        "answer": {
+          "word": "شصت",
+          "language_id": 1
+        }
+      },
+      {
+        "id": 322924,
+        "parent_id": 2121,
+        "language_id": 2,
+        "season_sort": 8,
+        "word": "palm",
+        "status": "1",
+        "season_id": 20,
+        "answer": {
+          "word": "کف دست",
+          "language_id": 1
+        }
+      }
+    ]
+  }
