@@ -48,6 +48,33 @@ function words_season(season_id, answer_language_id, cb) {
 }
 
 
+function get_words(answer_language_id, cb){
+    db.select('id', 'parent_id', 'language_id', 'season_sort', 'word', 'status', 'season_id')
+    .from('word')
+    .andWhereNot('status', null)
+    .andWhereNot('status', 0)
+    .then(question_words => {
+        let count = 0;
+        Object.keys(question_words).map(q_word => {
+            db.select('word', 'language_id')
+                .from('word')
+                .where('parent_id', question_words[q_word].parent_id)
+                .andWhere('language_id', answer_language_id)
+                .then(answer_word => {
+                    question_words[q_word].answer = answer_word[0];
+                    if ((count + 1) === question_words.length) {
+                        cb({ ok: true, data: question_words });
+                    } else {
+                        count++;
+                    }
+                })
+                .catch(e => cb({ ok: false, error: e }))
+        })
+    })
+    .catch(e => cb({ ok: false, error: e }))
+}
+
+
 function get_update_time(cb) {
     db.select()
         .from('update_archive')
@@ -164,5 +191,6 @@ module.exports = {
     words_season,
     get_update_time,
     leaderboard_set,
-    leaderboard_get
+    leaderboard_get,
+    get_words
 }
