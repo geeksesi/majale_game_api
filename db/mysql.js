@@ -4,9 +4,9 @@ const db = knex({
     client: 'mysql',
     connection: {
         host: 's7.liara.ir',
-        port: '32761',
+        port: '33390',
         user: 'root',
-        password: '20bRQYqphdPObGd09hXfrdxG',
+        password: 'JP84BHhVzP1uFqXFSGlO5cID',
         database: 'majale'
     }
 });
